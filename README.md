@@ -24,7 +24,10 @@ Projeto com objetivo de explorar o ambiente de desenvolvimento e utilizar a inte
 		```
 
 	- Instale as bibliotecas bases necessárias via [pip](https://pypi.org/project/pip/):
-		```(bot)$ pip install -r requirements.txt```
+		```
+			(bot)$ pip install -r requirements.txt
+		
+		```
 
 
 * Para maiores detalhes, utilize a documentação contida no [github](https://github.com/eternnoir/pyTelegramBotAPI)
