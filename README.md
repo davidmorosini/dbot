@@ -10,7 +10,7 @@ Projeto com objetivo de explorar o ambiente de desenvolvimento e utilizar a inte
 	
 	```python
 		{
-			"telegram-token":"TELEGRAM_TOKEN"
+			"key":"TELEGRAM_TOKEN"
 		}	
 	```
 
