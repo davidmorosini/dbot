@@ -29,7 +29,7 @@ Projeto com objetivo de explorar o ambiente de desenvolvimento e utilizar a inte
 		
 		```
 	- No mesmo terminal aberto, rode o arquivo ```main.py```
-		```python
+		```
 			(bot)$ python main.py
 		```
 	- Procure pelo nome do bot no buscador do telegram e cliquem em Começar
